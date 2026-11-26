@@ -1,0 +1,32 @@
+# Maven
+target/
+.mvn/wrapper/maven-wrapper.jar
+
+# Build files
+build/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Eclipse / STS
+.classpath
+.project
+.settings/
+.sts4-cache/
+.springBeans
+
+# VS Code
+.vscode/
+
+# Environment and secrets
+.env
+.env.*
+application-local.properties
+application-secret.properties
+
+# OS files
+.DS_Store
+Thumbs.db
